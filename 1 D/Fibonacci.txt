@@ -1,0 +1,11 @@
+Start
+Input the value of N
+Initialize:
+first = 0
+second = 1
+Print the first two terms (0 and 1)
+Loop from 3 to N:
+Compute next = first + second
+Print next
+Update first = second, second = next
+End

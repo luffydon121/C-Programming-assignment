@@ -1,0 +1,11 @@
+Start
+Input the number N
+Initialize reverse = 0 and temp = N (to store the original number)
+Repeat until temp becomes 0:
+Extract the last digit using digit = temp % 10
+Append digit to reverse using reverse = reverse * 10 + digit
+Remove the last digit using temp = temp / 10
+Compare reverse with N:
+If reverse == N, print Palindrome
+Else, print Not a Palindrome
+End

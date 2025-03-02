@@ -1,0 +1,8 @@
+Start
+Input three different numbers: a, b, c
+Compare the numbers:
+If a is greater than b and a is greater than c, then a is the maximum.
+Else if b is greater than a and b is greater than c, then b is the maximum.
+Else, c is the maximum.
+Output the maximum number.
+End

@@ -1,0 +1,9 @@
+Start
+Input the number N
+Initialize maxDigit = 0
+Repeat until N becomes 0:
+Extract the last digit using digit = N % 10
+If digit > maxDigit, update maxDigit = digit
+Remove the last digit using N = N / 10
+Output the value of maxDigit
+End

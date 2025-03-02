@@ -1,0 +1,9 @@
+Start
+Input the number N
+Initialize reverse = 0
+Repeat until N becomes 0:
+Extract the last digit using digit = N % 10
+Append digit to reverse using reverse = reverse * 10 + digit
+Remove the last digit using N = N / 10
+Output the value of reverse
+End

@@ -1,0 +1,7 @@
+Start
+Loop from 100 to 500:
+Check if the number is a palindrome:
+Store the number in temp
+Reverse the number by extracting digits and forming the reverse
+If the reverse is equal to the original number, print it
+End

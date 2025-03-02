@@ -1,0 +1,7 @@
+Start
+Loop from 1 to 100:
+If N ≤ 1, skip (not prime).
+Check divisibility from 2 to sqrt(N).
+If divisible by any number in this range, it's not prime.
+Otherwise, print N as a prime number.
+End

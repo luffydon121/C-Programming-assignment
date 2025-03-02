@@ -1,0 +1,12 @@
+Start
+Input the number N
+Initialize sum = 0 and temp = N (to store the original number)
+Count the number of digits in N
+Repeat until temp becomes 0:
+Extract the last digit using digit = temp % 10
+Compute digit^count and add it to sum
+Remove the last digit using temp = temp / 10
+Compare sum with N:
+If sum == N, print Armstrong Number
+Else, print Not an Armstrong Number
+End

@@ -1,0 +1,7 @@
+Start
+Input the value of N
+Initialize a variable sum = 0
+Loop from 1 to N:
+Add the current number to sum
+Output the value of sum
+End

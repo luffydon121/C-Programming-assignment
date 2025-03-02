@@ -1,0 +1,7 @@
+Start
+Input the number N
+Check:
+If N % 2 == 0, then the number is Even
+Else, the number is Odd
+Output the result
+End
